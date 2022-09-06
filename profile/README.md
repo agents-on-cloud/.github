@@ -10,7 +10,7 @@ descp
 
 
 
-[![Gmail Badge](Talents@iwishsystems.com)](mailto:ramikhzaitoun@gmail.com)
+[![Gmail Badge](Talents@iwishsystems.com)](mailto:Talents@iwishsystems.com)
 
 
 

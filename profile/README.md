@@ -6,17 +6,16 @@
 
 <img align="left" alt="Agents" width="200px" src="https://github.com/agents-on-cloud/.github/blob/main/1637077812621.jfif" />
 
-descp
+## Agent On Cloud 
+
+### "It’s not the customer’s job to know what they want” 
+
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flatt-square&logo=gmail&logoColor=white)](mailto:Talents@iwishsystems.com)
 
 
 
-[![Gmail Badge](Talents@iwishsystems.com)](mailto:Talents@iwishsystems.com)
 
-
-
-
-
- <img align="right" alt="Agents" width="200px"  src="" />
  
 
  
